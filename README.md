@@ -1,0 +1,1 @@
+Steps to reproduce `npm i && npm run launch-uglify && npm run launch-minified`
